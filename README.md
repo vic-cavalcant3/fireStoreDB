@@ -1,6 +1,6 @@
 # 🔌 Firebase Realtime com React Native
 
-Este é um projeto simples em React Native que demonstra como integrar um app com o Firebase Firestore utilizando três métodos principais de leitura de dados: 
+Este é um projeto básico em React Native que demonstra como integrar um app com o Firebase Firestore utilizando três métodos principais de leitura de dados: 
 
 - `getDoc()` – Leitura de um único documento.
 - `onSnapshot()` – Leitura em tempo real de um documento.
